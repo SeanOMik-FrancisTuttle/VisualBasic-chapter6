@@ -1,0 +1,12 @@
+H:\My Documents\VisualBasic\VisualBasic-chapter6\MostRainfallinUS\MostRainfallinUS\bin\Debug\FitnessChallenge.exe.config
+H:\My Documents\VisualBasic\VisualBasic-chapter6\MostRainfallinUS\MostRainfallinUS\bin\Debug\FitnessChallenge.exe
+H:\My Documents\VisualBasic\VisualBasic-chapter6\MostRainfallinUS\MostRainfallinUS\bin\Debug\FitnessChallenge.pdb
+H:\My Documents\VisualBasic\VisualBasic-chapter6\MostRainfallinUS\MostRainfallinUS\bin\Debug\FitnessChallenge.xml
+H:\My Documents\VisualBasic\VisualBasic-chapter6\MostRainfallinUS\MostRainfallinUS\obj\Debug\MostRainfallinUS.vbprojAssemblyReference.cache
+H:\My Documents\VisualBasic\VisualBasic-chapter6\MostRainfallinUS\MostRainfallinUS\obj\Debug\FitnessChallenge.frmRainfall.resources
+H:\My Documents\VisualBasic\VisualBasic-chapter6\MostRainfallinUS\MostRainfallinUS\obj\Debug\FitnessChallenge.Resources.resources
+H:\My Documents\VisualBasic\VisualBasic-chapter6\MostRainfallinUS\MostRainfallinUS\obj\Debug\MostRainfallinUS.vbproj.GenerateResource.cache
+H:\My Documents\VisualBasic\VisualBasic-chapter6\MostRainfallinUS\MostRainfallinUS\obj\Debug\MostRainfallinUS.vbproj.CoreCompileInputs.cache
+H:\My Documents\VisualBasic\VisualBasic-chapter6\MostRainfallinUS\MostRainfallinUS\obj\Debug\FitnessChallenge.exe
+H:\My Documents\VisualBasic\VisualBasic-chapter6\MostRainfallinUS\MostRainfallinUS\obj\Debug\FitnessChallenge.xml
+H:\My Documents\VisualBasic\VisualBasic-chapter6\MostRainfallinUS\MostRainfallinUS\obj\Debug\FitnessChallenge.pdb

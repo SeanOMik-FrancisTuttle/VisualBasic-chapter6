@@ -1,0 +1,12 @@
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter6\SoftballScoreboard\SoftballScoreboard\obj\Debug\SoftballScoreboard.vbprojAssemblyReference.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter6\SoftballScoreboard\SoftballScoreboard\obj\Debug\SoftballScoreboard.frmSoftballScoreboard.resources
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter6\SoftballScoreboard\SoftballScoreboard\obj\Debug\SoftballScoreboard.Resources.resources
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter6\SoftballScoreboard\SoftballScoreboard\obj\Debug\SoftballScoreboard.vbproj.GenerateResource.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter6\SoftballScoreboard\SoftballScoreboard\obj\Debug\SoftballScoreboard.vbproj.CoreCompileInputs.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter6\SoftballScoreboard\SoftballScoreboard\bin\Debug\SoftballScoreboard.exe.config
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter6\SoftballScoreboard\SoftballScoreboard\bin\Debug\SoftballScoreboard.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter6\SoftballScoreboard\SoftballScoreboard\bin\Debug\SoftballScoreboard.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter6\SoftballScoreboard\SoftballScoreboard\bin\Debug\SoftballScoreboard.xml
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter6\SoftballScoreboard\SoftballScoreboard\obj\Debug\SoftballScoreboard.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter6\SoftballScoreboard\SoftballScoreboard\obj\Debug\SoftballScoreboard.xml
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter6\SoftballScoreboard\SoftballScoreboard\obj\Debug\SoftballScoreboard.pdb
